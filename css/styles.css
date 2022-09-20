@@ -863,6 +863,7 @@ margin-bottom: 50px;
 }
 .modal-link {
   color: var(--accent-color-blue);
+  margin-left: 3px;
 }
 
 .modal-input,
